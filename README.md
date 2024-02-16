@@ -20,9 +20,12 @@ To get started with this project, follow these steps:
 
 *don't forget to summit your assignment in google classroom*
 
+```
  ____               _  _______    ___            
 |  _ \  _____   __ | |/ /_   _|  / _ \ _ __  ___ 
 | | | |/ _ \ \ / / | ' /  | |   | | | | '_ \/ __|
 | |_| |  __/\ V /  | . \  | |   | |_| | |_) \__ \
 |____/ \___| \_/   |_|\_\ |_|    \___/| .__/|___/
                                       |_|        
+
+```
